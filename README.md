@@ -1,7 +1,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=cuon-tokuda&theme=dark)](https://git.io/streak-stats)
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuon-tokuda&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuon-tokuda&layout=compact&show_icons=true&theme=onedark&private=true" />
   <img alt="GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=cuon-tokuda&theme=onedark&show_icons=true" />
 </p>
 
